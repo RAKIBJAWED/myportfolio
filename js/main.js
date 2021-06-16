@@ -1,6 +1,3 @@
-function myFunction(){
-	alert("We will implement mailing soon!! Till then please try to contact using mobile number or email");
-}
 
 (function ($) {
 	"use strict";
